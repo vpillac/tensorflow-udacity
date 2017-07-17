@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# tensorflow
+*.pickle
+*.zip
+.ipynb_checkpoints
